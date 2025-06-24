@@ -42,7 +42,7 @@ git clone https://github.com/wesxl/edurecomenda.git
 
 # Backend:
 
-```
+```bash
 cd edurecomenda_node
 npm install
 npm start
