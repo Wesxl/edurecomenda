@@ -39,17 +39,15 @@ git clone https://github.com/wesxl/edurecomenda.git
 
 
 2. Instale as dependências:
+
 Backend:
-bash
-Copiar
-Editar
+
 cd edurecomenda_node
 npm install
 npm start
+
 Frontend:
-bash
-Copiar
-Editar
+
 cd edurecomenda_frontend
 npm install
 npm start
@@ -61,7 +59,6 @@ edurecomenda_node/: Backend com Node.js + Express + MySQL
 edurecomenda_frontend/: Frontend com React
 
  Observações
-O banco de dados usado é MySQL. Um script .sql para criação da tabela cursos pode ser incluído, se necessário.
 
 O projeto segue o padrão de rotas REST com estrutura MVC no backend.
 
