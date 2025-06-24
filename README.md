@@ -31,26 +31,25 @@ A plataforma permite também aplicar filtros por **área**, **nível** e ordenar
 
 ---
 
-##  Como executar
+## Como executar
 
 ### 1. Clone o repositório:
+
 ```bash
 git clone https://github.com/wesxl/edurecomenda.git
 
+# 2. Instale as dependências:
 
-2. Instale as dependências:
-
-Backend:
-
+# Backend:
 cd edurecomenda_node
 npm install
 npm start
 
-Frontend:
-
+# Frontend:
 cd edurecomenda_frontend
 npm install
 npm start
+
 
 
 Organização do Projeto
