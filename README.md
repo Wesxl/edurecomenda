@@ -38,23 +38,20 @@ A plataforma permite também aplicar filtros por **área**, **nível** e ordenar
 ```bash
 git clone https://github.com/wesxl/edurecomenda.git
 ```
-# 2. Instale as dependências:
-```
-# Backend:
 
-```
+2. Instale as dependências:
+Backend:
+```bash
 cd edurecomenda_node
 npm install
 npm start
 ```
-# Frontend:
 
-
+Frontend:
+```bash
 cd edurecomenda_frontend
 npm install
 npm start
-
-
 ```
 Organização do Projeto
 edurecomenda_node/: Backend com Node.js + Express + MySQL
